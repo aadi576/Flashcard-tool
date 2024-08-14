@@ -1,0 +1,46 @@
+.flashcard-form {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #ffffff;
+    width: 350px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.flashcard-form h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.flashcard-form .form-group {
+    margin-bottom: 1rem;
+}
+
+.flashcard-form label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #555;
+}
+
+.flashcard-form input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.flashcard-form button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 0.75rem 1.5rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.flashcard-form button:hover {
+    background-color: #218838;
+}
